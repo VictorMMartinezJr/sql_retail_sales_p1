@@ -5,6 +5,38 @@
 **Project Title**: Retail Sales Analysis   
 **Database**: `p1_retail_db`
 
+This project was created to practice fundamental SQL skills using PostgreSQL. The focus was on designing a relational database, importing retail sales data, performing data cleaning, and writing analytical SQL queries to answer common business questions.
+
+While simple in scope, this project helped me become comfortable with the end-to-end workflow of working with a relational database.
+
+## Tech Stack
+
+- PostgreSQL
+- SQL
+
+## Dataset
+
+
+Source:
+Retail Sales Dataset from Kaggle
+
+The dataset contains retail transactions including:
+
+- transactions_id	
+- sale_date
+- sale_time
+- customer_id
+- gender
+- age
+- category
+- quantiy
+- price_per_unit
+- cogs
+- total_sale
+
+
+
+
 ## Objectives
 
 1. **Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
